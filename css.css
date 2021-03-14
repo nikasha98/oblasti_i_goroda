@@ -1,0 +1,69 @@
+body{
+	margin:0;
+	background:url('fon1.jpg');
+    background-repeat: no-repeat;
+	background-attachment: fixed; 
+	
+}
+#body{
+	width:70%;
+	margin:0 auto;
+	background:#87CEFA;
+}
+h1{
+	margin:0;
+	text-align:center;
+	padding:10px;
+}
+.heder{
+	width:100%;
+	height:auto;
+}
+ul{
+	width: 100%; 
+	height: 50px; 
+	position: relative;
+	display: table;
+	margin: 0;
+	padding: 0;
+	background: blue;
+}
+ul li {
+	display: table-cell;
+	position: relative;
+	width:33%;
+}
+ul li a {
+	text-decoration: none; 
+	display: block;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	color: white;
+	text-align:center;
+	line-height: 50px;
+	border-right: 1px solid #ADC0CE;
+	background: rgba(173, 192, 206, .3);
+}
+.container{
+	width:37%;
+	margin: 20px auto;
+}
+.form-row{
+	text-align:right;
+}
+
+.footer{
+	border-top: 0.05px solid #ADC0CE;
+	background-color:#87CEEB;
+	width:100%;
+	padding:10px 0;
+	margin:0 auto;
+	font-size:14px;
+}
+.cont{
+	margin:10px;
+}
+.vivod{
+	text-align:center;
+}
